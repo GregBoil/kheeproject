@@ -1,0 +1,290 @@
+Number,Type,Composition
+1,composition,Floral
+2,composition,"Floral, Nose"
+3,composition,"Floral, Corner"
+4,composition,Floral
+5,composition,"Floral, Khas"
+6,composition,"Nose, Erdene-Ochir"
+7,composition,Nose 
+8,composition,Floral
+9,composition,Floral
+10,composition,Floral
+11,composition,"Alkhan, Erdene-Ochir"
+12,composition,Floral
+13,composition,Puusen
+14,composition,"Ulzii, Floral"
+15,composition,Khorol
+16,composition,Puusen
+17,composition,Ulzii
+18,composition,"Corner, Nose, Floral"
+19,composition,"Nose, Floral"
+20,composition,"Floral, Nose"
+21,composition,Floral
+22,composition,Floral
+23,composition,"Floral, Nose"
+24,composition,"Horn, Dragon"
+25,composition,Floral
+26,simple,Horn
+27,simple,Horn
+28,composition,Floral
+29,composition,Floral
+30,composition,"Ulzii, Horn"
+31,composition,Horn
+32,composition,"Ulzii, Nose"
+33,composition,"Puusen, Nose"
+34,composition,Nose 
+35,composition,"Horn, Alkhan"
+36,composition,Floral
+37,composition,Alkhan
+38,composition,"Horn, Floral"
+39,composition,"Ulzii, Floral"
+40,composition,"Puusen, Floral"
+41,composition,"Ulzii, Puusen"
+42,composition,"Puusen, Floral"
+43,composition,"Puusen, Horn"
+44,composition,"Cattle, Horn"
+45,composition,"Frame, Ulzii"
+46,composition,"Horn, Floral"
+47,composition,"Ulzii, Horn"
+48,composition,Ulzii
+49,composition,"Horn, Erdene-Ochir"
+50,composition,Ulzii
+51,composition,"Puusen, Khas"
+52,composition,"Horn, Ulzii"
+53,composition,"Horn, Erdene-Ochir"
+54,composition,"Nose, Horn"
+55,composition,"Nose, Horn, Horol"
+56,composition,"Ulzii, Horn"
+57,composition,"Horn, Nose, Coin"
+58,composition,"Horn, Nose, Coin"
+59,composition,"Horn, Erdene-Ochir"
+60,composition,"Horn, Erdene-Ochir"
+61,composition,"Nose, Horn, Corner"
+62,composition,"Nose, Horn, Khas"
+63,composition,"Horn, Nose, Floral, Erdene-Ochir"
+64,composition,Puusen
+65,composition,"Nose, Floral"
+66,composition,"Nose, Floral, Corner"
+67,composition,"Frame, Nose, Floral"
+68,composition,"Horn, Floral, Erdene-Ochir"
+69,composition,"Floral, Horn, Puusen"
+70,composition,Puusen
+71,composition,"Puusen, Corner, Horn, Floral, Nose"
+72,composition,"Corner, Floral, Horn, Nose"
+73,composition,"Corner, Horn, Nose, Floral"
+74,composition,Horn
+75,composition,"Erdene-Ochir, Horn"
+76,composition,"Floral, Nose, Horn"
+77,composition,"Corner, Floral, Horn, Nose"
+78,composition,"Floral, Horn, Lanz"
+79,composition,"Horn, "
+80,composition,"Floral, Erdene-Ochir"
+81,composition,"Ulzii, Horn"
+82,composition,"Erdene-Ochir, Horn"
+83,composition,"Horn, Nose, Corner"
+84,composition,"Erdene-Ochir, Nose, Horn, Hadag"
+85,composition,"Horn, Floral, Corner"
+86,composition,"Floral, Horn"
+87,composition,"Puusen, Alkhan, Nose, Horn, Erdene-Ochir"
+88,composition,"Floral, Horn"
+89,composition,"Nose, Erdene-Ochir, Floral, Horn"
+90,composition,"Horn, Floral"
+91,composition,"Horn, Floral"
+92,composition,"Floral, Horn"
+93,composition,"Floral, Horn"
+94,composition,"Nose, Corner, Horn"
+95,composition,"Nose, Floral"
+96,composition,"Floral, Horn"
+97,composition,"Corner, Horn, Chandmani"
+98,composition,"Ulzii, Horn, Floral, Nose"
+99,composition,Lanz
+100,composition,Puusen
+101,composition,"Puusen, Floral, Horn"
+102,composition,"Chandmani, Floral, Cloud"
+103,composition,"Puusen, Horn, Nose"
+104,composition,"Horn, Erdene-Ochir, Nose"
+105,composition,"Horn, Erdene-Ochir, Nose, Puusen"
+106,composition,"Puusen, Nose, Horn, Floral, Corner"
+107,composition,"Corner, Horn, Nose, Floral"
+108,composition,"Corner, Floral, Horn, Nose"
+109,composition,"Floral, Erdene-Ochir"
+110,composition,Horn
+111,composition,"Floral, Horn, Nose"
+112,composition,"Floral, Horn, Horol"
+113,composition,"Floral, Nose, Erdene-Ochir"
+114,composition,"Floral, Nose, Horn"
+115,composition,"Floral, Nose, Horn, Erdene-Ochir"
+116,composition,Horn
+117,composition,"Floral, Erdene-Ochir, Nose, Horn, Fire"
+118,composition,"Horn, Puusen, Horol"
+119,composition,"Floral, Horn"
+120,composition,Horn
+121,composition,"Erdene-Ochir, Nose, Floral"
+122,composition,"Floral, Coin, Horn"
+123,composition," Floral, Horn"
+124,composition,"Floral, Corner, Horn"
+125,composition,"Chandmani, Horn"
+126,composition,"Chandmani, Horn"
+127,composition,Horn
+128,composition,"Corner, Puusen, Floral, Nose, Horn, Horol"
+129,composition,"Floral, Horn, 5 Nuden, Erdene-Ochir"
+130,composition,"Horn, Ulzii, 5 Nuden"
+131,composition,"Nose, Horn"
+132,composition,"Ulzii, Erdene-Ochir"
+133,composition,"Horn, Ulzii"
+134,composition,"Puusen, Horn, Nose, Erdene-Ochir"
+135,composition,Ulzii
+136,composition,"Horn, Horol, Nose"
+137,composition,"Ulzii, Corner"
+138,composition,"Lanz, Corner"
+139,composition,Ulzii
+140,composition,"Horn, Ulzii, Nose"
+141,composition,"Horn, Floral, Nose, Horol, Erdene-Ochir"
+142,composition,"Erdene-Ochir, Floral, Nose, Horn"
+143,composition,"Ulzii, Lanz"
+144,composition,"Floral, Nose, Horn, Erdene-Ochir"
+145,composition,"Floral, Horn, Nose, Lanz"
+146,composition,"Puusen, Lanz"
+147,composition,"Floral, Nose, Horn, Erdene-Ochir"
+148,composition,"Floral, Nose, Horn, Lanz"
+149,composition,"Puusen, Horn, Nose"
+150,composition,"Horn, Floral"
+151,composition,"Puusen, Horn, Erdene-Ochir"
+152,composition,"Floral, Horn, Erdene-Ochir"
+153,composition,"Corner, Horn, Nose"
+154,composition,"Floral, Nose, Horn, Erdene-Ochir, Fire"
+155,composition,"Horol, Horn"
+156,composition,"Puusen, Lanz, Horn, Nose, Erdene-Ochir"
+157,composition,"Erdene-Ochir, Horn, Lanz"
+158,composition,"Lanz, Horn, Nose"
+159,composition,"Horn, Nose"
+160,composition,"Horn, Nose, Floral"
+161,composition,"Horol, Horn, Floral"
+162,composition,"Erdene-Ochir, Horol, Nose"
+163,composition,"Puusen, Horn, Nose"
+164,simple,Alkhan
+165,simple,Alkhan
+166,simple,Horol Hee
+167,simple,Horol Hee
+168,simple,Horol Hee
+169,composition,"Horol,Nose,Alkhan"
+170,simple,Ulzii Hee
+171,simple,Ulzii Hee
+172,simple,Ulzii Hee
+173,simple,Alkhan
+174,simple,Ulzii Hee
+175,simple,Tvmen Nast Hee
+176,simple,"Tvmen Nast Hee, 5 Nuden"
+177,simple,"Ulzii, Frame"
+178,simple,"Corner, Horn"
+179,simple,"Corner, Horn, Ulzii"
+180,simple,Khas
+181,simple,Khas
+182,simple,Khas
+183,simple,"Khas, Tumen Nast"
+184,simple,"Khas, Lanz"
+185,simple,Lanz
+186,simple,Puusen
+187,simple,Erdene-Ochir
+188,simple,"Erdene-Ochir, Nose"
+189,simple,Hadag
+190,simple,Floral
+191,simple,Floral
+192,simple,"Floral, Nose"
+193,simple,Floral
+194,simple,"Floral,Nose"
+195,simple,Nose
+196,simple,Cloud
+197,simple,Cloud
+198,simple,Water
+199,simple,Water
+200,simple,Water
+201,simple,Water
+202,simple,5 Nuden
+203,composition,"Rabbit, Mountain, Cloud, Horn, Puusen, Corner, Water"
+204,simple,Erdene-Ochir
+205,simple,"Mountain, Cloud"
+206,simple,Zee Bad
+207,simple,Ulzii
+208,simple,Alkhan
+209,composition,"Nose, Horn, Floral, 5 Nuden,"
+210,simple,Water
+211,simple,Water
+212,simple,Water
+213,simple,Water
+214,simple,Water
+215,simple,Soymbo
+216,simple,Soymbo
+217,simple,Soymbo
+218,simple,Erdene-Ochir
+219,simple,Ulzii
+220,simple,Ulzii
+221,simple,Ulzii
+222,simple,Ulzii
+223,simple,Ulzii
+224,simple,Ulzii
+225,simple,Ulzii
+226,simple,Ulzii
+227,simple,Ulzii
+228,simple,Ulzii
+229,simple,Ulzii
+230,simple,Ulzii
+231,simple,Ulzii
+232,simple,Ulzii
+233,simple,Horn
+234,simple,Horn
+235,simple,Horn
+236,simple,Nose
+237,simple,Nose
+238,simple,Nose
+239,simple,Nose
+240,simple,Nose
+241,simple,Nose
+242,simple,Fish 
+243,simple,"Fish, 5 Nuden"
+244,simple,"Fish, Ulzii"
+245,simple,Fish
+246,simple,"Nose, Floral"
+247,simple,Bird
+248,simple,Bird
+249,simple,Bird
+250,simple,Bird
+251,simple,Hangarid
+252,simple,Bird
+253,simple,Bird
+254,simple,Cloud
+255,simple,Cloud
+256,simple,Cloud
+257,simple,Cloud
+258,composition,"Arga_Bileg, Nose, Coin, Horn"
+259,composition,"Erdene_Ochir, Floral, Horn, Nose"
+260,simple,Floral
+261,simple,Floral
+262,simple,Floral
+263,simple,Alkhan
+264,simple,Alkhan
+265,simple,Alkhan
+266,simple,Alkhan
+267,simple,Alkhan
+268,simple,Alkhan
+269,simple,"Alkhan, Floral, Erdene-Ochir"
+270,simple,"Puus, Alkhan, "
+271,simple,"Nose, Alkhan, Puusen"
+272,simple,"Ulzii, Puusen, Alkhan"
+273,simple,"Nose, "
+274,simple,"Frame, Ulzii"
+275,simple,"Frame, Ulzii"
+276,simple,"Frame, Ulzii"
+277,simple,"Frame, Ulzii"
+278,simple,"Frame, Ulzii"
+279,simple,"Frame, Ulzii"
+280,simple,"Frame, Ulzii"
+281,simple,"Frame, Ulzii"
+282,simple,"Frame, Ulzii"
+283,simple,"Lion, Water, "
+284,simple,Alkhan
+285,simple,Alkhan
+286,,
+287,,
+288,,
+289,,
